@@ -1,0 +1,5 @@
+__pycache__/*
+bin/*
+env/*
+build/*
+time_log

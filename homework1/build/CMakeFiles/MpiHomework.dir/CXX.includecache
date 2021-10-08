@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/common/KAiTP/pd063/pd_homeworks/homework1/popoval-mpi/src/main.cpp
+mpi.h
+-
+iostream
+-
+iomanip
+-
+cstdlib
+-
+algorithm
+-
+ctime
+-
+vector
+-
+fstream
+-
+

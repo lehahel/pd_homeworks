@@ -1,0 +1,12 @@
+=========================================
+SLURM_JOB_ID = 1875597
+SLURM_JOB_NODELIST = node20-28
+SLURM_CPUS_ON_NODE = 2
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 1634
+==========================================
+
+Time: 0.03353 ms
+Result: 3.1416 
+Process 0 part 3.1416 
+First computation: 3.1416 

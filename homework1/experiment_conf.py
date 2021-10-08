@@ -1,0 +1,8 @@
+GET_TIME_TIMEOUT = 60
+SBATCH_CONFIG_PATH = "scripts/tmp_sbatch_config.sh"
+OUTPUT_FILE_PATH = "bin/out.txt"
+ERROR_FILE_PATH = "bin/error.txt"
+BUILD_SCRIPT_PATH = "scripts/build.sh"
+SECTIONS_NUMBERS = [1000, 1000000, 100000000]
+MIN_NUM_PROC = 1
+MAX_NUM_PROC = 8

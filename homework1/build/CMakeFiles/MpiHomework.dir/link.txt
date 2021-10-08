@@ -1,0 +1,1 @@
+/opt/modules/mpi/hpcx-v2.5.0-gcc-MLNX_OFED_LINUX-4.7-1.0.0.1-redhat7.7-x86_64/hpcx-rebuild/bin/mpic++       CMakeFiles/MpiHomework.dir/src/main.cpp.o  -o ../bin/MpiHomework -rdynamic 
