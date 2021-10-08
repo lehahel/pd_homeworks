@@ -8,6 +8,7 @@ from experiment_conf import *
 
 
 def generate_sbatch_config(num_proc: int, sections_number: int):
+    call('echo "" > time_log', shell=True)
     call(f'rm {SBATCH_CONFIG_PATH}', shell=True)
     with open(SBATCH_CONFIG_PATH, 'w+', encoding='utf-8') as f:
         f.write(
